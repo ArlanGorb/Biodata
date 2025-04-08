@@ -36,7 +36,7 @@ export default Exercise7;
 
 const styles = StyleSheet.create({
   title: {
-    fontSize: 30,
+    fontSize: 31,
     margin: 30,
     fontWeight: 'bold',
   },
